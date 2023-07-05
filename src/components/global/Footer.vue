@@ -219,7 +219,7 @@
         <b-col md="12" lg="6" class="text-lg-start">
           <p>
             &copy; {{ new Date().getFullYear() }} All Right Reserved.Designed by
-            <em class="text-warning fw-bold">Msallem Yamina</em>
+            <em class="text-warning fw-bold">Nguyen Thuc</em>
           </p>
         </b-col>
         <b-col md="12" lg="6" class="text-lg-end mt-lg-0 mt-2">
