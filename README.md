@@ -1,7 +1,7 @@
 
 ## Vue2 + FireBase
 
-![screencapture-localhost-8080-2023-04-05-18_06_17](https://user-images.githubusercontent.com/38477281/230140759-b6f1b963-a8d0-40e7-b4b7-89ef1372a8a9.png)
+<img src ="./screencapture-vue2-firebase-ecomerce-0dce8b7d872a-herokuapp-2023-07-08-22_03_17.png" >
 
 ## Project setup
 ```
